@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CeaserCipher {
+public class Ceaser {
 	
 	static String a = "abcdefghijklmnopqrstuvwxyz";
 	

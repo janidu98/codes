@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Playfair1 {
+public class Play {
 	
 	public static String removeDuplicateElementFromKey(String key) {
 		

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Polyalphebetic{
+public class Poly{
 	
 	public static String generateKeyMethod(String msg, String key) {
 		

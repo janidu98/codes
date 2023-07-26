@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RailFence {
+public class Rail {
 	
 	public static char[][] fillingTheArrayWithCharacters(String msg, int key, char ch) {
 		

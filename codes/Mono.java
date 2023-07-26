@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Monoalphebetic{
+public class Mono{
 	
 	public static char plaintext[] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
 	public static char codedchar[] = {'d','k','v','q','f','i','b','j','w','p','e','s','c','x','h','t','m','y','a','u','o','l','r','g','z','n'};
